@@ -1,1 +1,0 @@
-The Python scripts here illustrate the local identification analysis at theta1_AMPF using double and arbitrary precision arithmetic in Python via the mpmath package to achieve the same conclusions. Note analytical derivatives are used since mpmath does not have multiprecision implementation of the complex QZ decomposition. 
